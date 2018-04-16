@@ -2,7 +2,6 @@ package aula06.ativ03;
 
 import org.junit.Assert;
 import org.junit.Test;
-//import java.util.Scanner;
 
 public class CalculadoraIPTUTest_CAIQUE {
 	
